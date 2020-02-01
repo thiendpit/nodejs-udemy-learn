@@ -1,0 +1,15 @@
+{
+  "name": "lesson3-chalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thiendpit",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "yargs": "^15.1.0"
+  }
+}
